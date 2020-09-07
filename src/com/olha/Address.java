@@ -1,4 +1,4 @@
-package com.company;
+package src.com.olha;
 
 public class Address {
     public static void address(String[] args)  {
